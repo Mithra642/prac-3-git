@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DevOps Practicum 3</title>
+</head>
+<body>
+    <h1>DevOps Practicum 3</h1>
+<p>This project demonstrates Git and GitHub collaborative workflow.</p>
+</body>
+</html>
